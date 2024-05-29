@@ -1,4 +1,14 @@
+Cricket Score Showing App
+Overview
+The Cricket Score Showing App provides real-time cricket match updates, detailed scorecards, and multimedia content to keep users engaged and informed about ongoing matches. Developed using Java, the app features a user-friendly interface and customizable notifications for a personalized experience.
 
+Features
+Live Scores: Real-time ball-by-ball updates.
+Scorecards: Detailed scorecards including runs, wickets, overs, and partnerships.
+Notifications: Personalized alerts for key match events.
+Multimedia Content: Video highlights and photo galleries.
+Interactive Elements: Polls, quizzes, and social media integration.
+Customizable UI: Dark and light modes, personalized home screen.
 # CRICKET Live
 Android Application for Cricket Live Scoring using Java , XML , FireBase , Android Studio
 
