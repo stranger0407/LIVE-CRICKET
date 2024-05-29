@@ -9,14 +9,14 @@ The Cricket live  App provides real-time cricket match updates, detailed scoreca
 ## CREATE ACCOUNT
 ![Screenshot_1583211461](https://github.com/stranger0407/LIVE-CRICKET/assets/113629315/b75772a8-52a5-4233-b156-433c7aeb945c)
 ## MATCHES
- <table align="center">
+ 
  ![Screenshot_1583211498](https://github.com/stranger0407/LIVE-CRICKET/assets/113629315/ae40a966-38ff-4abe-97b4-17f99383fdd1)
 ![Screenshot_1583211506](https://github.com/stranger0407/LIVE-CRICKET/assets/113629315/a1ac03e8-d48a-4bfa-bb17-d5c6a89994cf)
 ![Screenshot_1583211554](https://github.com/stranger0407/LIVE-CRICKET/assets/113629315/3f75cec1-2b45-40a0-a8ca-56bde308b748)
 ![Screenshot_1583212121](https://github.com/stranger0407/LIVE-CRICKET/assets/113629315/73bdcdd0-bbcc-49b2-ad13-57fd3625eda9)
 ![Screenshot_1583212221](https://github.com/stranger0407/LIVE-CRICKET/assets/113629315/fa156834-41f1-4aa4-8a4c-61ba70ab606d)
 ![Screenshot_1583212254](https://github.com/stranger0407/LIVE-CRICKET/assets/113629315/1afc7c14-0838-4958-b065-d66aed8bcc76)
-  </tr>
+
 
 
 
