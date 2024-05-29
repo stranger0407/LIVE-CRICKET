@@ -97,12 +97,15 @@ Participate in interactive polls and share updates on social media.
 
 ## CONTRIBUTING
 1) Fork the repository.
-2) Create a new branch:
-      git checkout -b feature/your-feature-name
-3) Commit your changes:
-    git commit -m 'Add some feature'
-4) Push to the branch:
-       git push origin feature/your-feature-name
+2) Create a new branch:                             
+      git checkout -b feature/add-live-score-updates
+
+3) Commit your changes:                                     
+            git commit -m 'Add live score update functionality'
+
+4) Push to the branch:                                                             
+          git push origin feature/add-live-score-updates
+
 5) Open a pull request
 
 ## CONTACT
