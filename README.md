@@ -92,10 +92,6 @@ For any queries or issues, feel free to reach out:
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
 ---
 
 🎉 **Thank you for checking out Cricket Live! Enjoy the game!** 🏏🔥
